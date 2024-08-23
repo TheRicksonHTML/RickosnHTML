@@ -1,0 +1,25 @@
+// selector{
+// propriedade: valor
+// }
+
+// primeira coisa a fazer no arquivo de style e o reset.
+
+// dentro do asteristico so solocamos o reset
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(116, 0, 151);
+}
+
+img{
+    width: 150px;
+    border-radius: 100px;
+}
