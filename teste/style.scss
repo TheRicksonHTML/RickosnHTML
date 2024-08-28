@@ -2,6 +2,8 @@
 // propriedade: valor
 // }
 
+
+
 // primeira coisa a fazer no arquivo de style e o reset.
 
 // dentro do asteristico so solocamos o reset
@@ -12,14 +14,21 @@ box-sizing: border-box;
 }
 
 body{
+    font-family: "poppins", sans-serif;
     background-color: rgb(255, 255, 255);
 }
 
 h1{
-    color: rgb(116, 0, 151);
+    font-family: "Cardo", serif;
+    color: rgb(0, 0, 255);
 }
 
 img{
     width: 150px;
     border-radius: 100px;
+}
+
+ol{
+ background-color: rgb(255, 255, 255);
+color: #ff0000;
 }
